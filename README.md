@@ -34,3 +34,14 @@ Ensuring clear documentation and efficient bug triage
 - [anastasia.a.koren@gmail.com](mailto:anastasia.a.koren@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/anastasia-koren/)
 - [View or download my resume (PDF)](./Anastasia_Koren_Senior_QA_Worldwide.docx)
+
+
+ ## Skills & Tools
+
+- **Testing:** Functional, regression, smoke, exploratory, and grey-box testing; risk-based test design
+- **Mobile & POS:** iOS, Android, React Native applications, POS terminals and AOSP
+- **API & network:** REST APIs, Postman, Swagger, Charles Proxy, Fiddler
+- **Test automation:** Java UI tests, Playwright (TypeScript)
+- **Performance testing:** Basic load testing with Grafana k6
+- **Data & diagnostics:** SQL (PostgreSQL), application logs, Kafka, Chrome DevTools
+- **Ways of working:** Scrum, Kanban; Jira, Confluence, TestRail, BrowserStack, Figma, Git, Docker
