@@ -1,15 +1,18 @@
 
 # 🕵️‍♀️ Anastasia Koren – Senior QA Engineer Portfolio
 
-Hi! I’m **Anastasia Koren**, a Senior QA Engineer with **6+ years of experience** testing iOS and Android apps, POS terminals, web applications, and APIs. My work has focused on **fintech, payments, and third-party integrations**. I’ve also built QA processes from scratch as the sole QA engineer on several projects.
+Hi there! 
+I’m **Anastasia Koren**, a Senior QA Engineer with **6+ years of experience** testing iOS and Android apps, POS terminals, web applications, and APIs. My work has focused on **fintech, payments, integrations, and mobile applications**. I’ve also built QA processes from scratch as the sole QA engineer on several projects.
 
-This portfolio brings together sample test cases, checklists, and bug reports. They show how I turn requirements into test scenarios, prioritize coverage based on risk, and document defects so developers can reproduce them.
+This portfolio is a growing collection of sample test cases, checklists, bug reports, UI automation examples in Java and Playwright (TypeScript), and basic load-testing scripts using Grafana k6. Together, these examples show how I turn requirements into test scenarios, prioritize coverage based on risk, automate repeatable checks, run basic load tests, and write bug reports that help developers reproduce issues.
 
 🔒 *The examples use demo applications, fictional data, or generalized scenarios to protect client confidentiality.*
 
-👤 About Me
-💼 Senior Fullstack QA Engineer
-🎯 Specializing in full-cycle software testing, quality processes, and bringing clarity through structured QA and reliable manual testing practices.
+## 👤 About Me
+
+💼 **Senior QA Engineer | Manual and Automated Testing**
+
+I work across the full QA cycle: reviewing requirements, assessing risks, testing mobile and web applications and APIs, investigating defects, and supporting releases. I also build QA processes and mentor other QA engineers.
 
 🧠 Proven track record in:
 
