@@ -20,10 +20,9 @@ Enhancing product quality and user experience
 Ensuring clear documentation and efficient bug triage
 🔍 Passionate about crafting clean and predictable releases users can trust through thoughtful testing and continuous process improvement.
 
-📧 Email: 
-🔗 LinkedIn: 
-📄 Resume: 
-📍 Location: 
+[📧 Email:] (anastasia.a.koren@gmail.com)
+[🔗 LinkedIn:] (https://www.linkedin.com/in/anastasia-koren/)
+[📄 Resume:] (Preview & Download PDF)
 🌐 Languages:
 RU Russian (native)
 GB English (upper intermediate | B2)
