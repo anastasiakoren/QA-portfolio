@@ -10,8 +10,7 @@ This portfolio is a growing collection of sample test cases, checklists, bug rep
 🔒 *The examples use demo applications, fictional data, or generalized scenarios to protect client confidentiality.*
 
 ## 👤 About Me
-
-💼 **Senior QA Engineer | Manual and Automated Testing**
+ **Senior QA Engineer | Manual and Automated Testing**
 
 I work across the full QA cycle: reviewing requirements, assessing risks, testing mobile and web applications and APIs, investigating defects, and supporting releases. I also build QA processes and mentor other QA engineers.
 
