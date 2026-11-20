@@ -1,6 +1,7 @@
 
 # 🕵️‍♀️ Anastasia Koren – Senior QA Engineer Portfolio
 
+
 Hi there! 
 I’m **Anastasia Koren**, a Senior QA Engineer with **6+ years of experience** testing iOS and Android apps, POS terminals, web applications, and APIs. My work has focused on **fintech, payments, integrations, and mobile applications**. I’ve also built QA processes from scratch as the sole QA engineer on several projects.
 
@@ -45,3 +46,6 @@ Ensuring clear documentation and efficient bug triage
 - **Performance testing:** Basic load testing with Grafana k6
 - **Data & diagnostics:** SQL (PostgreSQL), application logs, Kafka, Chrome DevTools
 - **Ways of working:** Scrum, Kanban; Jira, Confluence, TestRail, BrowserStack, Figma, Git, Docker
+
+
+Thanks for stopping by.
