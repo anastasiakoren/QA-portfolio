@@ -15,29 +15,28 @@ This portfolio is a growing collection of sample test cases, checklists, bug rep
 
 I work across the full QA cycle: reviewing requirements, assessing risks, testing mobile and web applications and APIs, investigating defects, and supporting releases. I also build QA processes and mentor other QA engineers.
 
-🧠 Proven track record in:
+## 🧠 Experience Highlights
 
-Designing and implementing QA processes from the ground up
-Manual testing in Agile/Scrum workflows
-Leading and mentoring QA teams
-Enhancing product quality and user experience
-Ensuring clear documentation and efficient bug triage
-🔍 Passionate about crafting clean and predictable releases users can trust through thoughtful testing and continuous process improvement.
+- Built QA processes from scratch, including test documentation and release checks.
+- Owned end-to-end testing as the sole QA engineer on several projects.
+- Led QA teams of up to 10 people and mentored four engineers.
+- Worked with developers and product teams to clarify requirements, investigate defects, and improve user experience.
+- Supported releases through smoke, regression, and acceptance testing.
 
 
- ## Languages
+ ## 🌐 Languages
 
 - Russian — native
 - English — upper-intermediate (B2+)
 
-## Contact
+## 📧 Contact
 
 - [anastasia.a.koren@gmail.com](mailto:anastasia.a.koren@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/anastasia-koren/)
 - [View or download my resume (PDF)](./Anastasia_Koren_Senior_QA_Worldwide.docx)
 
 
- ## Skills & Tools
+ ## 🧰 Skills & Tools
 
 - **Testing:** Functional, regression, smoke, exploratory, and grey-box testing; risk-based test design
 - **Mobile & POS:** iOS, Android, React Native applications, POS terminals and AOSP
