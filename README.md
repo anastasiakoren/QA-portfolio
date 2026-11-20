@@ -31,6 +31,6 @@ Ensuring clear documentation and efficient bug triage
 
 ## Contact
 
-- [Email](mailto:anastasia.a.koren@gmail.com)
+- [anastasia.a.koren@gmail.com](mailto:anastasia.a.koren@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/anastasia-koren/)
 - [View or download my resume (PDF)](./Anastasia_Koren_Senior_QA_Worldwide.docx)
